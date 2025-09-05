@@ -1,0 +1,14 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9817b75f_002Dce7a_002D430e_002D841d_002D5a8d2db66cf2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CalculatorTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::953EE025-2641-419D-828D-391186C4C631::net9.0::CalculatorLibrary.Tests.Unit.CalculatorTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::B50D7977-52EE-4034-B2F9-8ED5D6F78B34::net9.0::RomanNumeralsConverterLibrary.Tests.Unit.RomanNumeralsConverterTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::32D8E03D-D4F8-404F-A6DC-FF2E643E4734::net9.0::PasswordFieldLibrary.Tests.Unit.PasswordFieldTests.ValidatePassword_ShouldReturnPassword_WhenPasswordLengthIsValid&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::32D8E03D-D4F8-404F-A6DC-FF2E643E4734::net9.0::PasswordFieldLibrary.Tests.Unit.PasswordFieldTests.ValidatePassword_ShouldThrowArgumentException_WhenPasswordLengthIsInvalid&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::32D8E03D-D4F8-404F-A6DC-FF2E643E4734::net9.0::PasswordFieldLibrary.Tests.Unit.PasswordFieldTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::D926BD14-5535-4F2E-AC71-E13121A9D610::net9.0::E_ShopLibrary.Tests.Unit.EshopTests.CalculateDiscount_ShouldReturnDiscount_WhenPurchaseAmountIsValid&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::D926BD14-5535-4F2E-AC71-E13121A9D610::net9.0::E_ShopLibrary.Tests.Unit.EshopTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9F8BD6FC-3A19-4442-B68B-7D90C8A22419::net9.0::FramingShop.Tests.Unit.FramingShopTests.CalculateFramePrice_ShouldReturnPrice_WhenFrameWidthAndHeightIsValid&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9F8BD6FC-3A19-4442-B68B-7D90C8A22419::net9.0::FramingShop.Tests.Unit.FramingShopTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

@@ -1,0 +1,12 @@
+C:\Coding\KEA\PBA - Softwareudvikling\Testing\SD_Testing_E25\Lesson01\src\RomanNumeralsConverterLibrary\bin\Debug\net9.0\RomanNumeralsConverterLibrary.deps.json
+C:\Coding\KEA\PBA - Softwareudvikling\Testing\SD_Testing_E25\Lesson01\src\RomanNumeralsConverterLibrary\bin\Debug\net9.0\RomanNumeralsConverterLibrary.dll
+C:\Coding\KEA\PBA - Softwareudvikling\Testing\SD_Testing_E25\Lesson01\src\RomanNumeralsConverterLibrary\bin\Debug\net9.0\RomanNumeralsConverterLibrary.pdb
+C:\Coding\KEA\PBA - Softwareudvikling\Testing\SD_Testing_E25\Lesson01\src\RomanNumeralsConverterLibrary\obj\Debug\net9.0\RomanNumeralsConverterLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding\KEA\PBA - Softwareudvikling\Testing\SD_Testing_E25\Lesson01\src\RomanNumeralsConverterLibrary\obj\Debug\net9.0\RomanNumeralsConverterLibrary.AssemblyInfoInputs.cache
+C:\Coding\KEA\PBA - Softwareudvikling\Testing\SD_Testing_E25\Lesson01\src\RomanNumeralsConverterLibrary\obj\Debug\net9.0\RomanNumeralsConverterLibrary.AssemblyInfo.cs
+C:\Coding\KEA\PBA - Softwareudvikling\Testing\SD_Testing_E25\Lesson01\src\RomanNumeralsConverterLibrary\obj\Debug\net9.0\RomanNumeralsConverterLibrary.csproj.CoreCompileInputs.cache
+C:\Coding\KEA\PBA - Softwareudvikling\Testing\SD_Testing_E25\Lesson01\src\RomanNumeralsConverterLibrary\obj\Debug\net9.0\RomanNumeralsConverterLibrary.sourcelink.json
+C:\Coding\KEA\PBA - Softwareudvikling\Testing\SD_Testing_E25\Lesson01\src\RomanNumeralsConverterLibrary\obj\Debug\net9.0\RomanNumeralsConverterLibrary.dll
+C:\Coding\KEA\PBA - Softwareudvikling\Testing\SD_Testing_E25\Lesson01\src\RomanNumeralsConverterLibrary\obj\Debug\net9.0\refint\RomanNumeralsConverterLibrary.dll
+C:\Coding\KEA\PBA - Softwareudvikling\Testing\SD_Testing_E25\Lesson01\src\RomanNumeralsConverterLibrary\obj\Debug\net9.0\RomanNumeralsConverterLibrary.pdb
+C:\Coding\KEA\PBA - Softwareudvikling\Testing\SD_Testing_E25\Lesson01\src\RomanNumeralsConverterLibrary\obj\Debug\net9.0\ref\RomanNumeralsConverterLibrary.dll
