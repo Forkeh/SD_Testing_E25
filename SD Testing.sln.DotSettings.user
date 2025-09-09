@@ -15,5 +15,19 @@
     &lt;TestId&gt;xUnit::69195654-83A4-4FB7-8930-9B5895C240AB::net9.0::DriversLicenseSystem.Tests.Unit.DriversLicenseSystemTests.TestResult_ShouldRequireTheoryRetake_WhenPointsAreTooLow&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::69195654-83A4-4FB7-8930-9B5895C240AB::net9.0::DriversLicenseSystem.Tests.Unit.DriversLicenseSystemTests.TestResult_ShouldRequirePracticalRetake_WhenPointsAreTooLow&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::69195654-83A4-4FB7-8930-9B5895C240AB::net9.0::DriversLicenseSystem.Tests.Unit.DriversLicenseSystemTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C482E377-EC17-4374-A66D-CF2055EB7679::net9.0::AirlineDiscountCalculator.Tests.Unit.AirlineDiscountCalculatorTests.CalculateDiscount_ShouldBeFree_WhenAgeIsBelow3&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C482E377-EC17-4374-A66D-CF2055EB7679::net9.0::AirlineDiscountCalculator.Tests.Unit.AirlineDiscountCalculatorTests.CalculateDiscount_ShouldBe40_WhenAgeIsBetween3And17AndStayLessThan6Days&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C482E377-EC17-4374-A66D-CF2055EB7679::net9.0::AirlineDiscountCalculator.Tests.Unit.AirlineDiscountCalculatorTests.CalculateDiscount_ShouldReturn50Percent_WhenAgeIsBetween3And17With6DayStay&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C482E377-EC17-4374-A66D-CF2055EB7679::net9.0::AirlineDiscountCalculator.Tests.Unit.AirlineDiscountCalculatorTests.CalculateDiscount_ShouldReturn40Percent_WhenAgeIsBetween3And17Without6DayStay&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C482E377-EC17-4374-A66D-CF2055EB7679::net9.0::AirlineDiscountCalculator.Tests.Unit.AirlineDiscountCalculatorTests.CalculateDiscount_ShouldReturn20Percent_WhenAdultToIndiaWithout6DayStay&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C482E377-EC17-4374-A66D-CF2055EB7679::net9.0::AirlineDiscountCalculator.Tests.Unit.AirlineDiscountCalculatorTests.CalculateDiscount_ShouldReturn20Percent_WhenAdultToIndiaNotMondayOrFridayWithout6DayStay&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C482E377-EC17-4374-A66D-CF2055EB7679::net9.0::AirlineDiscountCalculator.Tests.Unit.AirlineDiscountCalculatorTests.CalculateDiscount_ShouldReturn20Percent_WhenAdultToIndiaNotMondayOrFridayWith6DayStay&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C482E377-EC17-4374-A66D-CF2055EB7679::net9.0::AirlineDiscountCalculator.Tests.Unit.AirlineDiscountCalculatorTests.CalculateDiscount_ShouldReturn0Percent_WhenAdultToIndiaMondayOrFridayWithout6DayStay&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C482E377-EC17-4374-A66D-CF2055EB7679::net9.0::AirlineDiscountCalculator.Tests.Unit.AirlineDiscountCalculatorTests.CalculateDiscount_ShouldReturn0Percent_WhenAdultToIndiaMondayOrFridayWith6DayStay&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C482E377-EC17-4374-A66D-CF2055EB7679::net9.0::AirlineDiscountCalculator.Tests.Unit.AirlineDiscountCalculatorTests.CalculateDiscount_ShouldReturn0Percent_WhenAdultToAsiaMondayOrFridayWithout6DayStay&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C482E377-EC17-4374-A66D-CF2055EB7679::net9.0::AirlineDiscountCalculator.Tests.Unit.AirlineDiscountCalculatorTests.CalculateDiscount_ShouldReturn0Percent_WhenAdultToAsiaMondayOrFridayWith6DayStay&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C482E377-EC17-4374-A66D-CF2055EB7679::net9.0::AirlineDiscountCalculator.Tests.Unit.AirlineDiscountCalculatorTests.CalculateDiscount_ShouldReturn0Percent_WhenAdultToAsiaNotMondayOrFridayWithout6DayStay&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C482E377-EC17-4374-A66D-CF2055EB7679::net9.0::AirlineDiscountCalculator.Tests.Unit.AirlineDiscountCalculatorTests.CalculateDiscount_ShouldReturn0Percent_WhenAdultToAsiaNotMondayOrFridayWith6DayStay&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C482E377-EC17-4374-A66D-CF2055EB7679::net9.0::AirlineDiscountCalculator.Tests.Unit.AirlineDiscountCalculatorTests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

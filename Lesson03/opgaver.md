@@ -87,8 +87,8 @@ Apply black-box test design:
 |------------------------|-----|----|----|----|----|----|----|----|----|-----|-----|
 | **Conditions**         |     |    |    |    |    |    |    |    |    |     |     |
 | Age ≤ 2                | T   | -  | -  | -  | -  | -  | -  | -  | -  | -   | -   |
-| Age 3-18               | -   | T  | T  | -  | -  | -  | -  | -  | -  | -   | -   |
-| Age > 18               | -   | -  | -  | T  | T  | T  | T  | T  | T  | T   | T   |
+| Age 3-17               | -   | T  | T  | -  | -  | -  | -  | -  | -  | -   | -   |
+| Age ≥ 18               | -   | -  | -  | T  | T  | T  | T  | T  | T  | T   | T   |
 | Destination in India   | -   | -  | -  | T  | T  | T  | T  | F  | F  | F   | F   |
 | Departure on Mon/Fri   | -   | -  | -  | F  | F  | T  | T  | T  | T  | F   | F   |
 | Staying atleast 6 days | -   | F  | T  | F  | T  | F  | T  | F  | T  | F   | T   |

@@ -68,6 +68,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriversLicenseSystem", "Les
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriversLicenseSystem.Tests.Unit", "Lesson03\DriversLicenseSystem.Tests.Unit\DriversLicenseSystem.Tests.Unit.csproj", "{69195654-83A4-4FB7-8930-9B5895C240AB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirlineDiscountCalculator", "Lesson03\AirlineDiscountCalculator\AirlineDiscountCalculator.csproj", "{6F111772-2621-4581-B193-044DA4C3A4D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirlineDiscountCalculator.Tests.Unit", "Lesson03\AirlineDiscountCalculator.Tests.Unit\AirlineDiscountCalculator.Tests.Unit.csproj", "{C482E377-EC17-4374-A66D-CF2055EB7679}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -122,6 +126,14 @@ Global
 		{69195654-83A4-4FB7-8930-9B5895C240AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69195654-83A4-4FB7-8930-9B5895C240AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69195654-83A4-4FB7-8930-9B5895C240AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F111772-2621-4581-B193-044DA4C3A4D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F111772-2621-4581-B193-044DA4C3A4D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F111772-2621-4581-B193-044DA4C3A4D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F111772-2621-4581-B193-044DA4C3A4D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C482E377-EC17-4374-A66D-CF2055EB7679}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C482E377-EC17-4374-A66D-CF2055EB7679}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C482E377-EC17-4374-A66D-CF2055EB7679}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C482E377-EC17-4374-A66D-CF2055EB7679}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{99D77070-5CBF-4491-9B54-2228AED5837A} = {4246E3F2-BEDA-4CE4-AD54-5375C98FB4AD}
@@ -142,5 +154,7 @@ Global
 		{2483E52E-FCDD-4CE2-BD01-D9D1486448C4} = {0208ED69-DDD4-4760-A3EC-D64AECFB5E7F}
 		{DFC3A064-2455-4C76-98A0-762DF50A27BE} = {1A2A3500-003E-4849-8650-183D1AB956DB}
 		{69195654-83A4-4FB7-8930-9B5895C240AB} = {2483E52E-FCDD-4CE2-BD01-D9D1486448C4}
+		{6F111772-2621-4581-B193-044DA4C3A4D6} = {1A2A3500-003E-4849-8650-183D1AB956DB}
+		{C482E377-EC17-4374-A66D-CF2055EB7679} = {2483E52E-FCDD-4CE2-BD01-D9D1486448C4}
 	EndGlobalSection
 EndGlobal
