@@ -50,6 +50,24 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FramingShop", "Lesson02\Fra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FramingShop.Tests.Unit", "Lesson02\FramingShop.Tests.Unit\FramingShop.Tests.Unit.csproj", "{9F8BD6FC-3A19-4442-B68B-7D90C8A22419}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson03", "Lesson03", "{0208ED69-DDD4-4760-A3EC-D64AECFB5E7F}"
+	ProjectSection(SolutionItems) = preProject
+		Lesson03\01 Employees.md = Lesson03\01 Employees.md
+		Lesson03\02 ST Checkout.md = Lesson03\02 ST Checkout.md
+		Lesson03\03 ST ATM.md = Lesson03\03 ST ATM.md
+		Lesson03\04 ST Login = Lesson03\04 ST Login
+		Lesson03\README.md = Lesson03\README.md
+		Lesson03\opgaver.md = Lesson03\opgaver.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{1A2A3500-003E-4849-8650-183D1AB956DB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{2483E52E-FCDD-4CE2-BD01-D9D1486448C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriversLicenseSystem", "Lesson03\DriversLicenseSystem\DriversLicenseSystem.csproj", "{DFC3A064-2455-4C76-98A0-762DF50A27BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriversLicenseSystem.Tests.Unit", "Lesson03\DriversLicenseSystem.Tests.Unit\DriversLicenseSystem.Tests.Unit.csproj", "{69195654-83A4-4FB7-8930-9B5895C240AB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -96,6 +114,14 @@ Global
 		{9F8BD6FC-3A19-4442-B68B-7D90C8A22419}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F8BD6FC-3A19-4442-B68B-7D90C8A22419}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F8BD6FC-3A19-4442-B68B-7D90C8A22419}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFC3A064-2455-4C76-98A0-762DF50A27BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFC3A064-2455-4C76-98A0-762DF50A27BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFC3A064-2455-4C76-98A0-762DF50A27BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFC3A064-2455-4C76-98A0-762DF50A27BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69195654-83A4-4FB7-8930-9B5895C240AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69195654-83A4-4FB7-8930-9B5895C240AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69195654-83A4-4FB7-8930-9B5895C240AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69195654-83A4-4FB7-8930-9B5895C240AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{99D77070-5CBF-4491-9B54-2228AED5837A} = {4246E3F2-BEDA-4CE4-AD54-5375C98FB4AD}
@@ -112,5 +138,9 @@ Global
 		{D926BD14-5535-4F2E-AC71-E13121A9D610} = {85D913A5-F5F9-448E-B5A0-394577E9FFDF}
 		{EC20A18C-9D1F-431A-847E-B981C44C74EC} = {2339D93A-DAB4-4EAD-8DBE-60CD3CAD4BD7}
 		{9F8BD6FC-3A19-4442-B68B-7D90C8A22419} = {85D913A5-F5F9-448E-B5A0-394577E9FFDF}
+		{1A2A3500-003E-4849-8650-183D1AB956DB} = {0208ED69-DDD4-4760-A3EC-D64AECFB5E7F}
+		{2483E52E-FCDD-4CE2-BD01-D9D1486448C4} = {0208ED69-DDD4-4760-A3EC-D64AECFB5E7F}
+		{DFC3A064-2455-4C76-98A0-762DF50A27BE} = {1A2A3500-003E-4849-8650-183D1AB956DB}
+		{69195654-83A4-4FB7-8930-9B5895C240AB} = {2483E52E-FCDD-4CE2-BD01-D9D1486448C4}
 	EndGlobalSection
 EndGlobal
