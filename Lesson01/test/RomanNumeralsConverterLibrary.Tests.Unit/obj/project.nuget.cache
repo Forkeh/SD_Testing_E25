@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k9vBF1t8n4M=",
+  "dgSpecHash": "8wN7UTazxtA=",
   "success": true,
-  "projectFilePath": "C:\\Coding\\KEA\\PBA - Softwareudvikling\\1. Semester\\Testing\\SD_Testing_E25\\Lesson01\\test\\RomanNumeralsConverterLibrary.Tests.Unit\\RomanNumeralsConverterLibrary.Tests.Unit.csproj",
+  "projectFilePath": "c:\\Coding\\KEA\\PBA - Softwareudvikling\\1. Semester\\Testing\\SD_Testing_E25\\Lesson01\\test\\RomanNumeralsConverterLibrary.Tests.Unit\\RomanNumeralsConverterLibrary.Tests.Unit.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Blume\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
     "C:\\Users\\Blume\\.nuget\\packages\\fluentassertions\\8.6.0\\fluentassertions.8.6.0.nupkg.sha512",

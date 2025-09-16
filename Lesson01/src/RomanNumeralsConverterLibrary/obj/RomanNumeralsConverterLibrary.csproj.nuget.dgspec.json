@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Coding\\KEA\\PBA - Softwareudvikling\\1. Semester\\Testing\\SD_Testing_E25\\Lesson01\\src\\RomanNumeralsConverterLibrary\\RomanNumeralsConverterLibrary.csproj": {}
+    "c:\\Coding\\KEA\\PBA - Softwareudvikling\\1. Semester\\Testing\\SD_Testing_E25\\Lesson01\\src\\RomanNumeralsConverterLibrary\\RomanNumeralsConverterLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Coding\\KEA\\PBA - Softwareudvikling\\1. Semester\\Testing\\SD_Testing_E25\\Lesson01\\src\\RomanNumeralsConverterLibrary\\RomanNumeralsConverterLibrary.csproj": {
+    "c:\\Coding\\KEA\\PBA - Softwareudvikling\\1. Semester\\Testing\\SD_Testing_E25\\Lesson01\\src\\RomanNumeralsConverterLibrary\\RomanNumeralsConverterLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Coding\\KEA\\PBA - Softwareudvikling\\1. Semester\\Testing\\SD_Testing_E25\\Lesson01\\src\\RomanNumeralsConverterLibrary\\RomanNumeralsConverterLibrary.csproj",
+        "projectUniqueName": "c:\\Coding\\KEA\\PBA - Softwareudvikling\\1. Semester\\Testing\\SD_Testing_E25\\Lesson01\\src\\RomanNumeralsConverterLibrary\\RomanNumeralsConverterLibrary.csproj",
         "projectName": "RomanNumeralsConverterLibrary",
-        "projectPath": "C:\\Coding\\KEA\\PBA - Softwareudvikling\\1. Semester\\Testing\\SD_Testing_E25\\Lesson01\\src\\RomanNumeralsConverterLibrary\\RomanNumeralsConverterLibrary.csproj",
+        "projectPath": "c:\\Coding\\KEA\\PBA - Softwareudvikling\\1. Semester\\Testing\\SD_Testing_E25\\Lesson01\\src\\RomanNumeralsConverterLibrary\\RomanNumeralsConverterLibrary.csproj",
         "packagesPath": "C:\\Users\\Blume\\.nuget\\packages\\",
-        "outputPath": "C:\\Coding\\KEA\\PBA - Softwareudvikling\\1. Semester\\Testing\\SD_Testing_E25\\Lesson01\\src\\RomanNumeralsConverterLibrary\\obj\\",
+        "outputPath": "c:\\Coding\\KEA\\PBA - Softwareudvikling\\1. Semester\\Testing\\SD_Testing_E25\\Lesson01\\src\\RomanNumeralsConverterLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Blume\\AppData\\Roaming\\NuGet\\NuGet.Config"

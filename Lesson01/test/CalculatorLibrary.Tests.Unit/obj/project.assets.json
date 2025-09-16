@@ -1003,11 +1003,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Coding\\KEA\\PBA - Softwareudvikling\\1. Semester\\Testing\\SD_Testing_E25\\Lesson01\\test\\CalculatorLibrary.Tests.Unit\\CalculatorLibrary.Tests.Unit.csproj",
+      "projectUniqueName": "c:\\Coding\\KEA\\PBA - Softwareudvikling\\1. Semester\\Testing\\SD_Testing_E25\\Lesson01\\test\\CalculatorLibrary.Tests.Unit\\CalculatorLibrary.Tests.Unit.csproj",
       "projectName": "CalculatorLibrary.Tests.Unit",
-      "projectPath": "C:\\Coding\\KEA\\PBA - Softwareudvikling\\1. Semester\\Testing\\SD_Testing_E25\\Lesson01\\test\\CalculatorLibrary.Tests.Unit\\CalculatorLibrary.Tests.Unit.csproj",
+      "projectPath": "c:\\Coding\\KEA\\PBA - Softwareudvikling\\1. Semester\\Testing\\SD_Testing_E25\\Lesson01\\test\\CalculatorLibrary.Tests.Unit\\CalculatorLibrary.Tests.Unit.csproj",
       "packagesPath": "C:\\Users\\Blume\\.nuget\\packages\\",
-      "outputPath": "C:\\Coding\\KEA\\PBA - Softwareudvikling\\1. Semester\\Testing\\SD_Testing_E25\\Lesson01\\test\\CalculatorLibrary.Tests.Unit\\obj\\",
+      "outputPath": "c:\\Coding\\KEA\\PBA - Softwareudvikling\\1. Semester\\Testing\\SD_Testing_E25\\Lesson01\\test\\CalculatorLibrary.Tests.Unit\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Blume\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1022,8 +1022,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Coding\\KEA\\PBA - Softwareudvikling\\1. Semester\\Testing\\SD_Testing_E25\\Lesson01\\src\\CalculatorLibrary\\CalculatorLibrary.csproj": {
-              "projectPath": "C:\\Coding\\KEA\\PBA - Softwareudvikling\\1. Semester\\Testing\\SD_Testing_E25\\Lesson01\\src\\CalculatorLibrary\\CalculatorLibrary.csproj"
+            "c:\\Coding\\KEA\\PBA - Softwareudvikling\\1. Semester\\Testing\\SD_Testing_E25\\Lesson01\\src\\CalculatorLibrary\\CalculatorLibrary.csproj": {
+              "projectPath": "c:\\Coding\\KEA\\PBA - Softwareudvikling\\1. Semester\\Testing\\SD_Testing_E25\\Lesson01\\src\\CalculatorLibrary\\CalculatorLibrary.csproj"
             }
           }
         }
