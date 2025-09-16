@@ -1,5 +1,5 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9817b75f_002Dce7a_002D430e_002D841d_002D5a8d2db66cf2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CalculatorTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9817b75f_002Dce7a_002D430e_002D841d_002D5a8d2db66cf2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CalculatorTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;xUnit::953EE025-2641-419D-828D-391186C4C631::net9.0::CalculatorLibrary.Tests.Unit.CalculatorTests&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::B50D7977-52EE-4034-B2F9-8ED5D6F78B34::net9.0::RomanNumeralsConverterLibrary.Tests.Unit.RomanNumeralsConverterTests&lt;/TestId&gt;&#xD;
@@ -29,5 +29,15 @@
     &lt;TestId&gt;xUnit::C482E377-EC17-4374-A66D-CF2055EB7679::net9.0::AirlineDiscountCalculator.Tests.Unit.AirlineDiscountCalculatorTests.CalculateDiscount_ShouldReturn0Percent_WhenAdultToAsiaNotMondayOrFridayWithout6DayStay&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::C482E377-EC17-4374-A66D-CF2055EB7679::net9.0::AirlineDiscountCalculator.Tests.Unit.AirlineDiscountCalculatorTests.CalculateDiscount_ShouldReturn0Percent_WhenAdultToAsiaNotMondayOrFridayWith6DayStay&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::C482E377-EC17-4374-A66D-CF2055EB7679::net9.0::AirlineDiscountCalculator.Tests.Unit.AirlineDiscountCalculatorTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::B22BDC6C-2786-4B14-BF31-38DEE615B8A6::net9.0::Employee.Tests.Unit.EmployeeTests.CprProperty_Should_SetValue_When_ValidCprProvided&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::B22BDC6C-2786-4B14-BF31-38DEE615B8A6::net9.0::Employee.Tests.Unit.EmployeeTests.CprProperty_Should_ThrowArgumentException_When_InvalidCprProvided&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::B22BDC6C-2786-4B14-BF31-38DEE615B8A6::net9.0::Employee.Tests.Unit.EmployeeTests.FirstNameProperty_Should_SetValue_When_ValidFirstNameProvided&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::B22BDC6C-2786-4B14-BF31-38DEE615B8A6::net9.0::Employee.Tests.Unit.EmployeeTests.FirstNameProperty_Should_ThrowArgumentException_When_InvalidFirstNameProvided&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::B22BDC6C-2786-4B14-BF31-38DEE615B8A6::net9.0::Employee.Tests.Unit.EmployeeTests.FirstNameProperty_Should_ThrowArgumentException_When_InvalidFirstNameLengthProvided&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::B22BDC6C-2786-4B14-BF31-38DEE615B8A6::net9.0::Employee.Tests.Unit.EmployeeTests.FirstNameProperty_Should_ThrowArgumentException_When_InvalidFirstNameCharactersProvided&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::B22BDC6C-2786-4B14-BF31-38DEE615B8A6::net9.0::Employee.Tests.Unit.EmployeeTests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9b84e6fc_002Da85c_002D43eb_002D972a_002Daba1b42cc289/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="BirthDateProperty_Should_SetValue_When_ValidBirthDateProvided" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;ProjectFile&gt;B22BDC6C-2786-4B14-BF31-38DEE615B8A6/f:EmployeeTests.cs&lt;/ProjectFile&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
