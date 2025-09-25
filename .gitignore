@@ -528,3 +528,4 @@ Lesson01/test/RomanNumeralsConverterLibrary.Tests.Unit/obj/rider.project.model.n
 Lesson01/test/RomanNumeralsConverterLibrary.Tests.Unit/obj/rider.project.restore.info
 Lesson01/test/RomanNumeralsConverterLibrary.Tests.Unit/obj/Debug/net9.0/RomanNumeralsConverterLibrary.Tests.Unit.AssemblyInfo.cs
 Lesson01/test/RomanNumeralsConverterLibrary.Tests.Unit/obj/Debug/net9.0/RomanNumeralsConverterLibrary.Tests.Unit.AssemblyInfoInputs.cache
+!/Lesson05/CurrencyConverter/.env
