@@ -496,3 +496,35 @@ fabric.properties
 *.sln.iml
 
 # End of https://www.toptal.com/developers/gitignore/api/csharp,dotnetcore,rider
+Lesson01/src/CalculatorLibrary/obj/rider.project.model.nuget.info
+Lesson01/src/CalculatorLibrary/obj/rider.project.restore.info
+Lesson01/src/CalculatorLibrary/obj/Debug/net9.0/CalculatorLibrary.AssemblyInfo.cs
+Lesson01/src/CalculatorLibrary/obj/Debug/net9.0/CalculatorLibrary.AssemblyInfoInputs.cache
+Lesson01/src/RomanNumeralsConverterLibrary/obj/rider.project.model.nuget.info
+Lesson01/src/RomanNumeralsConverterLibrary/obj/rider.project.restore.info
+Lesson01/src/RomanNumeralsConverterLibrary/obj/Debug/net9.0/RomanNumeralsConverterLibrary.AssemblyInfo.cs
+Lesson01/src/RomanNumeralsConverterLibrary/obj/Debug/net9.0/RomanNumeralsConverterLibrary.AssemblyInfoInputs.cache
+Lesson01/test/CalculatorLibrary.Tests.Unit/obj/rider.project.model.nuget.info
+Lesson01/test/CalculatorLibrary.Tests.Unit/obj/rider.project.restore.info
+Lesson01/test/CalculatorLibrary.Tests.Unit/obj/Debug/net9.0/CalculatorLibrary.Tests.Unit.AssemblyInfo.cs
+Lesson01/test/CalculatorLibrary.Tests.Unit/obj/Debug/net9.0/CalculatorLibrary.Tests.Unit.AssemblyInfoInputs.cache
+Lesson01/test/RomanNumeralsConverterLibrary.Tests.Unit/obj/rider.project.model.nuget.info
+Lesson01/test/RomanNumeralsConverterLibrary.Tests.Unit/obj/rider.project.restore.info
+Lesson01/test/RomanNumeralsConverterLibrary.Tests.Unit/obj/Debug/net9.0/RomanNumeralsConverterLibrary.Tests.Unit.AssemblyInfo.cs
+Lesson01/test/RomanNumeralsConverterLibrary.Tests.Unit/obj/Debug/net9.0/RomanNumeralsConverterLibrary.Tests.Unit.AssemblyInfoInputs.cache
+Lesson01/src/CalculatorLibrary/obj/rider.project.model.nuget.info
+Lesson01/src/CalculatorLibrary/obj/rider.project.restore.info
+Lesson01/src/CalculatorLibrary/obj/Debug/net9.0/CalculatorLibrary.AssemblyInfo.cs
+Lesson01/src/CalculatorLibrary/obj/Debug/net9.0/CalculatorLibrary.AssemblyInfoInputs.cache
+Lesson01/src/RomanNumeralsConverterLibrary/obj/rider.project.model.nuget.info
+Lesson01/src/RomanNumeralsConverterLibrary/obj/rider.project.restore.info
+Lesson01/src/RomanNumeralsConverterLibrary/obj/Debug/net9.0/RomanNumeralsConverterLibrary.AssemblyInfo.cs
+Lesson01/src/RomanNumeralsConverterLibrary/obj/Debug/net9.0/RomanNumeralsConverterLibrary.AssemblyInfoInputs.cache
+Lesson01/test/CalculatorLibrary.Tests.Unit/obj/rider.project.model.nuget.info
+Lesson01/test/CalculatorLibrary.Tests.Unit/obj/rider.project.restore.info
+Lesson01/test/CalculatorLibrary.Tests.Unit/obj/Debug/net9.0/CalculatorLibrary.Tests.Unit.AssemblyInfo.cs
+Lesson01/test/CalculatorLibrary.Tests.Unit/obj/Debug/net9.0/CalculatorLibrary.Tests.Unit.AssemblyInfoInputs.cache
+Lesson01/test/RomanNumeralsConverterLibrary.Tests.Unit/obj/rider.project.model.nuget.info
+Lesson01/test/RomanNumeralsConverterLibrary.Tests.Unit/obj/rider.project.restore.info
+Lesson01/test/RomanNumeralsConverterLibrary.Tests.Unit/obj/Debug/net9.0/RomanNumeralsConverterLibrary.Tests.Unit.AssemblyInfo.cs
+Lesson01/test/RomanNumeralsConverterLibrary.Tests.Unit/obj/Debug/net9.0/RomanNumeralsConverterLibrary.Tests.Unit.AssemblyInfoInputs.cache

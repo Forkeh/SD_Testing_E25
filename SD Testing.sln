@@ -55,9 +55,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson03", "Lesson03", "{02
 		Lesson03\01 Employees.md = Lesson03\01 Employees.md
 		Lesson03\02 ST Checkout.md = Lesson03\02 ST Checkout.md
 		Lesson03\03 ST ATM.md = Lesson03\03 ST ATM.md
-		Lesson03\04 ST Login = Lesson03\04 ST Login
 		Lesson03\README.md = Lesson03\README.md
-		Lesson03\opgaver.md = Lesson03\opgaver.md
+		Lesson03\04 ST Login.md = Lesson03\04 ST Login.md
+		Lesson03\Exercises.md = Lesson03\Exercises.md
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{1A2A3500-003E-4849-8650-183D1AB956DB}"
@@ -75,6 +75,22 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employee", "Lesson03\Employee\Employee.csproj", "{6BBB74E2-3BE3-4958-8276-5DAF516927C7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employee.Tests.Unit", "Lesson03\Employee.Tests.Unit\Employee.Tests.Unit.csproj", "{B22BDC6C-2786-4B14-BF31-38DEE615B8A6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson04", "Lesson04", "{148D81C2-480D-4B4E-A423-1C40DE96E4CE}"
+	ProjectSection(SolutionItems) = preProject
+		Lesson04\01 Coverage.md = Lesson04\01 Coverage.md
+		Lesson04\atm.drawio = Lesson04\atm.drawio
+		Lesson04\Exercises.md = Lesson04\Exercises.md
+		Lesson04\login.drawio = Lesson04\login.drawio
+		Lesson04\README.md = Lesson04\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson05", "Lesson05", "{4B368715-3651-47FD-A074-181FD1170C86}"
+	ProjectSection(SolutionItems) = preProject
+		Lesson05\01 Measure converter.md = Lesson05\01 Measure converter.md
+		Lesson05\02 Customers API.md = Lesson05\02 Customers API.md
+		Lesson05\README.md = Lesson05\README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
