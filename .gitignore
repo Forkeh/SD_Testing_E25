@@ -518,3 +518,5 @@ fabric.properties
 # Rider specific
 **/.idea/
 *.sln.iml
+
+**/.env
