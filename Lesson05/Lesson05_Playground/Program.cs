@@ -1,6 +1,14 @@
-﻿// Test the CurrencyConverter class
+﻿using CurrencyConverter;
+using DotNetEnv;
 
-var converter = new CurrencyConverter.CurrencyConverter("DKK");
+// ----- Test the CurrencyConverter class -----
+Env.Load();
+
+var apiKey = Env.GetString("CURRENCY_API");
+
+var currencyRepository = new CurrencyRepository(new HttpClient(), apiKey);
+
+var converter = new CurrencyConverter.CurrencyConverter("DKK", currencyRepository);
 
 try
 {
@@ -17,5 +25,17 @@ catch (Exception ex)
     Console.WriteLine($"Error: {ex.Message}");
 }
 
-Console.WriteLine("Press any key to exit...");
-Console.ReadKey();
+
+// ----- Test the GradeConverter class -----
+
+// using GradeConverter;
+//
+// const string connectionString = "Server=localhost;Database=converter-db;Uid=root;Pwd=password;";
+//
+// var gradeRepository = new GradeRepository(connectionString);
+//
+// var gradeConverter = new GradeConverter.GradeConverter(gradeRepository);
+//
+// var result = gradeConverter.Convert("C", "cUSA");
+//
+// Console.WriteLine($"Grade conversion: {result}");

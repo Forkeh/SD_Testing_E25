@@ -5,10 +5,12 @@
         <TargetFramework>net9.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <RootNamespace>TestingGround</RootNamespace>
     </PropertyGroup>
 
     <ItemGroup>
         <ProjectReference Include="..\CurrencyConverter\CurrencyConverter.csproj"/>
+        <ProjectReference Include="..\GradeConverter\GradeConverter.csproj"/>
     </ItemGroup>
 
 </Project>
