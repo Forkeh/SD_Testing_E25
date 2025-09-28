@@ -18,11 +18,18 @@ public class CurrencyRepository(HttpClient httpClient, string apiKey) : ICurrenc
         var result = await httpClient.GetAsync(url);
         var jsonString = await result.Content.ReadAsStringAsync();
 
+        // Check if HTTP request was successful
+        if (!result.IsSuccessStatusCode)
+        {
+            throw new InvalidOperationException(
+                $"API request failed with status: {result.StatusCode}. Response: {jsonString}");
+        }
+
         var apiResponse = JsonSerializer.Deserialize<ApiResponse>(jsonString);
 
-        if (apiResponse == null)
+        if (apiResponse?.Data == null)
         {
-            return -1;
+            throw new InvalidOperationException("Invalid API response format");
         }
 
         return apiResponse.Data[toCurrency].Value;
